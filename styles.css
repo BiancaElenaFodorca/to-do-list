@@ -1,0 +1,11 @@
+body {
+    background-image: url('bck-img.jpg');
+    color: #626E6A;
+}
+
+.completed-tasks {
+  background-color: white;
+  opacity: 0.5;
+  color: #111;
+  min-height: 150px;;
+}
